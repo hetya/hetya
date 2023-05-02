@@ -1,9 +1,9 @@
 # Hello everyone :wave:!
 ---
 
-:telescope: I'm a sofware engineer student at [42 Lyon]([https://42](https://42lyon.fr/)) in France.
-:seedling: I'm currently learning C, C++, typescript and docker
-:microscope: Currently intersted in cybersecurity
+- :telescope: I'm a sofware engineer student at [42 Lyon]([https://42](https://42lyon.fr/)) in France.
+- :seedling: I'm currently learning C, C++, typescript and docker
+- :microscope: Currently intersted in cybersecurity
 
 <br>
 
