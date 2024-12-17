@@ -6,7 +6,7 @@
 <br>
 
 ## :wrench: Languages and Tools:
-![Dev langs](https://skillicons.dev/icons?i=bash,c,cpp,ts,html,css,py,nestjs,react)
+![Dev langs](https://skillicons.dev/icons?i=c,cpp,bash,ts,html,css,py,nestjs,react)
 
 ## :hash: Tools
 ![Dev langs](https://skillicons.dev/icons?i=docker,kubernetes,fastapi,figma,github,mongodb,postman,sentry)
